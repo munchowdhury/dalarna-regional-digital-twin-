@@ -6,8 +6,8 @@ AI-powered digital twin for Dalarna County, Sweden. Real-time telemetry monitori
 
 ## 🚀 Live Production Deployment
 
-- **Vercel Project:** [https://vercel.com/proloypoddars-projects/dalarna-twin-v2](https://vercel.com/proloypoddars-projects/dalarna-twin-v2)
-- **Live URL:** [https://dalarna-twin-v2.vercel.app](https://dalarna-twin-v2.vercel.app)
+- **Vercel Project:** https://dalarna-regional-digital-twin-4mcm68yiz-muntaha7.vercel.app/
+- **Live URL:** [[https://dalarna-twin-v2.vercel.app](https://dalarna-twin-v2.vercel.app)](https://dalarna-regional-digital-twin.vercel.app/)
 
 ---
 
